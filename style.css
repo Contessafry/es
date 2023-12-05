@@ -5,9 +5,18 @@ body {
   justify-content: center;
 }
 button {
-  border-radius: 100%;
   display: flex;
-  width: 250px;
-  height: 250px;
-  background-color: blueviolet;
+  width: 50px;
+  height: 50px;
+  background-color: rgb(43, 226, 107);
+}
+div {
+  font-size: xxx-large;
+  display: flex;
+  height: 80px;
+  width: 80px;
+  background-color: gray;
+  color: red;
+  align-items: center;
+  justify-content: space-around;
 }
